@@ -65,10 +65,13 @@ On Streamlit Cloud: Go to App Settings -> Secrets and paste the same line.
 
 # 📂 Project Structure
 
-├── app.py                # Main application logic
-├── requirements.txt      # List of dependencies
-├── README.md             # Project documentation
-└── .streamlit/           # (Optional) Local secrets configuration
+├─ app.py                # Main application logic
+
+├─ requirements.txt      # List of dependencies
+
+├─ README.md             # Project documentation
+
+└─ .streamlit/           # (Optional) Local secrets configuration
 
 
 # 👤 Author
